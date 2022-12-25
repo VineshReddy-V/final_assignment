@@ -9,13 +9,13 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword  } 
 
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBtCd6t5vM5k24LPXmXIBEIDK6Oewz0bs8",
-  authDomain: "vinesh-contact.firebaseapp.com",
-  projectId: "vinesh-contact",
-  storageBucket: "vinesh-contact.appspot.com",
-  messagingSenderId: "266838855790",
-  appId: "1:266838855790:web:bbf8ea834e348f4e30167f"
-};
+  apiKey: "AIzaSyA7dSgsE4mPfDSC_uB692EBm-N_l8Ey6mU",
+  authDomain: "chethan-contact.firebaseapp.com",
+  projectId: "chethan-contact",
+  storageBucket: "chethan-contact.appspot.com",
+  messagingSenderId: "273546987628",
+  appId: "1:273546987628:web:033d78e25bce14f6cff049"
+}
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
