@@ -6,13 +6,15 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword  } 
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
+
 export const firebaseConfig = {
-  apiKey: "AIzaSyCiKEf6TUXiUWmIS5TF1DbA5vJVw4sBfXc",
-  authDomain: "se-esa-11f8d.firebaseapp.com",
-  projectId: "se-esa-11f8d",
-  storageBucket: "se-esa-11f8d.appspot.com",
-  messagingSenderId: "246227322237",
-  appId: "1:246227322237:web:22a8d055f16a84e446b814"
+  apiKey: "AIzaSyBtCd6t5vM5k24LPXmXIBEIDK6Oewz0bs8",
+  authDomain: "vinesh-contact.firebaseapp.com",
+  projectId: "vinesh-contact",
+  storageBucket: "vinesh-contact.appspot.com",
+  messagingSenderId: "266838855790",
+  appId: "1:266838855790:web:bbf8ea834e348f4e30167f"
 };
 
 // Initialize Firebase
